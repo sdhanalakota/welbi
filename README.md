@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs all the neccessary dependancies.
+Installs all the dependancies.
 
 ### `npm start`
 
